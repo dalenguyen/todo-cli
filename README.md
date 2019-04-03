@@ -9,16 +9,12 @@ Todo list command with [oclif](https://github.com/oclif/oclif) and TypeScript
 <!-- tocstop -->
 # Usage
 <!-- usage -->
-```sh-session
-$ npm install -g todocli
-$ todocli COMMAND
-running command...
-$ todocli (-v|--version|version)
-todocli/0.0.0 darwin-x64 node-v10.10.0
-$ todocli --help [COMMAND]
-USAGE
-  $ todocli COMMAND
-...
+This project has not been published to NPM package yet. If you want to use it, please replace __todocli__ with __./bin/run__.
+
+For example, to show all tasks:
+
+```sh
+./bin/run show
 ```
 <!-- usagestop -->
 # Commands
